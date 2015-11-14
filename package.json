@@ -9,6 +9,7 @@
   "author": "Behrad <behradz@gmail.com>",
   "license": "ISC",
   "dependencies": {
+    "async": "^1.5.0",
     "influx": "^4.0.0"
   }
 }
